@@ -11,7 +11,7 @@
 
 Projeto criado utilizando exemplo de bootstrap para ensino de uso do README e do Bootstrap.
 
-##   Descriçâo 
+##   Descrição 
 
 ##   Introdução
 
