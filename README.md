@@ -34,6 +34,7 @@ Foram utilizados neste projeto Bootstrap, HTML e CSS
 
 * [Alura](https://www.alura.com.br/artigos/escrever-bom-readme) - Como escrever um README incrível no seu Github
 * [Alura](https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89-) - Um modelo para fazer um bom README.md
+* [Alura](https://getbootstrap.com/)
 ## Autores
 ```
 Bryan Cardoso
